@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+	<ConnectionString>Data Source=validatordb.sqlite;Version=3;</ConnectionString>
+	<SnLength>7</SnLength>
+	<Cells>
+		<Cell>
+			<Index>0</Index>
+			<Cell_name>Gocator 1</Cell_name>
+			<Folder>Y:\Gocator\1x00_Calibration</Folder>
+		</Cell>
+		<Cell>
+			<Index>1</Index>
+			<Cell_name>Gocator 2</Cell_name>
+			<Folder>Y:\Gocator\2xx_Calibration</Folder>
+		</Cell>
+		<Cell>
+			<Index>2</Index>
+			<Cell_name>Gocator 3</Cell_name>
+			<Folder>Y:\Gocator\3xx0_Calibration</Folder>
+		</Cell>
+		<Cell>
+			<Index>3</Index>
+			<Cell_name>Gocator 20x0</Cell_name>
+			<Folder>Y:\Gocator\20x0_Calibration</Folder>
+		</Cell>
+	</Cells>
+</Settings>

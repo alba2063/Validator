@@ -1,0 +1,10 @@
+C:\Work\Validator_1_0\Validator\obj\Debug\Validator_10.csprojResolveAssemblyReference.cache
+C:\Work\Validator_1_0\Validator\obj\Debug\Validator.MainForm.resources
+C:\Work\Validator_1_0\Validator\obj\Debug\Validator.Properties.Resources.resources
+C:\Work\Validator_1_0\Validator\obj\Debug\Validator_10.csproj.GenerateResource.Cache
+C:\Work\Validator_1_0\Validator\obj\Debug\Validator_10.csproj.CoreCompileInputs.cache
+C:\Work\Validator_1_0\Validator\bin\Debug\Validator_1.1.exe.config
+C:\Work\Validator_1_0\Validator\bin\Debug\Validator_1.1.exe
+C:\Work\Validator_1_0\Validator\bin\Debug\Validator_1.1.pdb
+C:\Work\Validator_1_0\Validator\obj\Debug\Validator_1.1.exe
+C:\Work\Validator_1_0\Validator\obj\Debug\Validator_1.1.pdb
